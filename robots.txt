@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ferefo.github.io/WFG/sitemap.WFG.gz
